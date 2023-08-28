@@ -6,7 +6,7 @@
 <!-- hero image -->
 <section
     class="w-full mx-auto bg-nordic-gray-light flex pt-12 md:pt-0 md:items-center bg-cover bg-right"
-    style="max-width:1600px; height: 32rem; background-image: url('https://images.unsplash.com/photo-1422190441165-ec2956dc9ecc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1600&q=80');"
+    style="max-width:1600px; height: 32rem; background-image: url('https://img.freepik.com/free-photo/natural-wooden-background_24837-269.jpg?size=626&ext=jpg&ga=GA1.1.2028305833.1693191481&semt=ais');"
 >
     <div class="container mx-auto">
         <div
