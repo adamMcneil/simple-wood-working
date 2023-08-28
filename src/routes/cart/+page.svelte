@@ -1,6 +1,6 @@
 <script lang="ts">
     import { Product, products } from "$lib/products";
-    import { is_empty } from "svelte/internal";
+    import { base } from '$app/paths';
 
     function getProduct(slug: string) {
         for (let i = 0; i < products.length; i++) {
@@ -205,7 +205,7 @@
         <div class="mt-6 flex justify-center text-center text-sm text-gray-500">
             <p>
                 <a
-                    href="/#products"
+                    href="{base}/#products"
                     class="font-medium text-yellow-700 hover:text-yellow-500"
                 >
                     View our products
