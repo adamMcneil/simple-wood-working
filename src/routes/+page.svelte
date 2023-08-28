@@ -12,7 +12,7 @@
         <div
             class="flex flex-col w-full lg:w-1/2 justify-center items-start px-6 tracking-wide"
         >
-            <h1 class="text-black text-3xl my-4">Excavators and More</h1>
+            <h1 class="text-black text-3xl my-4">Table, Benches, and More</h1>
             <div>
                 <a
                     class="text-2xl inline-block no-underline border-b border-gray-600 leading-relaxed hover:text-black hover:border-black"

@@ -65,6 +65,21 @@ export class Product {
 // List of all the products
 const productsData: ProductData[] = [
   {
+    title: "Dinning Room Table",
+    slug: "table",
+    description: "this is a very large custom made dinning room table.",
+    stats: new Map<string, string>([
+      ["Brand", "Sigma"],
+      ["Focal Length Description", "Standard Zoom"],
+      ["Lens Type", "Standard"],
+      ["Compatible Mountings", "Sony E"],
+      ["Camera Lens Description", "70 mm"],
+    ]),
+    price: "$1000",
+    stripe_link: "https://buy.stripe.com/test_4gwaET12p1nZ6kM5kk",
+    price_id: "",
+  },
+  {
     title: "Camera Lens",
     slug: "camera-lens",
     description:

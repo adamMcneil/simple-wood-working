@@ -24,7 +24,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.77771465"
-     inkscape:cx="-45.646562"
+     inkscape:cx="396.67505"
      inkscape:cy="355.52886"
      inkscape:window-width="2560"
      inkscape:window-height="1376"
@@ -105,12 +105,12 @@
        y="-101.18079"
        transform="matrix(-0.92041037,-0.39095364,0.30586871,-0.9520737,0,0)" />
     <rect
-       style="opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.656568"
+       style="opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.590345"
        id="rect566"
-       width="5.8792305"
-       height="204.06062"
-       x="-110.50903"
-       y="-204.62833"
-       transform="matrix(-0.005986,-0.99998208,-0.99999694,0.00247447,0,0)" />
+       width="5.8791943"
+       height="164.97313"
+       x="-110.57372"
+       y="-186.79282"
+       transform="matrix(-0.00483941,-0.99998829,-0.99999532,0.00306075,0,0)" />
   </g>
 </svg>

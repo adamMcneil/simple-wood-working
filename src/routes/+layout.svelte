@@ -21,7 +21,119 @@
                 class="flex items-center tracking-wide no-underline hover:no-underline font-bold text-gray-800 text-xl"
                 href="{ base }/"
                 >
-                <img src = "favicon.svg" height="80px" width="80px" alt="My Happy SVG"/>
+                <svg
+                width="5pc"
+                height="5pc"
+                viewBox="0 0 210 210"
+                version="1.1"
+                id="svg5"
+                inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+                sodipodi:docname="favicon.svg"
+                xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+                xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:svg="http://www.w3.org/2000/svg">
+                <sodipodi:namedview
+                    id="namedview7"
+                    pagecolor="#ffffff"
+                    bordercolor="#666666"
+                    borderopacity="1.0"
+                    inkscape:pageshadow="2"
+                    inkscape:pageopacity="0.0"
+                    inkscape:pagecheckerboard="0"
+                    inkscape:document-units="mm"
+                    showgrid="false"
+                    inkscape:zoom="0.77771465"
+                    inkscape:cx="396.67505"
+                    inkscape:cy="355.52886"
+                    inkscape:window-width="2560"
+                    inkscape:window-height="1376"
+                    inkscape:window-x="1920"
+                    inkscape:window-y="277"
+                    inkscape:window-maximized="1"
+                    inkscape:current-layer="layer1"
+                    height="296mm"
+                    units="pc" />
+                <defs
+                    id="defs2" />
+                <g
+                    inkscape:label="Layer 1"
+                    inkscape:groupmode="layer"
+                    id="layer1">
+                    <rect
+                    style="opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.491972"
+                    id="rect31"
+                    width="5.2109575"
+                    height="129.2655"
+                    x="76.862267"
+                    y="13.589668"
+                    transform="matrix(0.92041039,0.3909536,-0.30586868,0.95207371,0,0)" />
+                    <rect
+                    style="opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.491972"
+                    id="rect515"
+                    width="5.2109575"
+                    height="129.2655"
+                    x="149.52251"
+                    y="-16.246801"
+                    transform="matrix(0.92041039,0.3909536,-0.30586868,0.95207371,0,0)" />
+                    <rect
+                    style="opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.491972"
+                    id="rect517"
+                    width="5.2109575"
+                    height="129.2655"
+                    x="-54.009987"
+                    y="67.330627"
+                    transform="matrix(-0.92041039,0.3909536,0.30586868,0.95207371,0,0)" />
+                    <rect
+                    style="opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.491972"
+                    id="rect519"
+                    width="5.2109575"
+                    height="129.2655"
+                    x="-126.66998"
+                    y="97.167107"
+                    transform="matrix(-0.92041039,0.3909536,0.30586868,0.95207371,0,0)" />
+                    <rect
+                    style="opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.491972"
+                    id="rect31-3"
+                    width="5.2109575"
+                    height="129.2655"
+                    x="9.6664028"
+                    y="-183.53963"
+                    transform="matrix(0.92041039,-0.3909536,-0.30586868,-0.95207371,0,0)" />
+                    <rect
+                    style="opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.491972"
+                    id="rect515-6"
+                    width="5.2109575"
+                    height="129.2655"
+                    x="82.32663"
+                    y="-213.3761"
+                    transform="matrix(0.92041039,-0.3909536,-0.30586868,-0.95207371,0,0)" />
+                    <rect
+                    style="opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.491972"
+                    id="rect517-7"
+                    width="5.2109575"
+                    height="129.2655"
+                    x="-118.2382"
+                    y="-131.0173"
+                    transform="matrix(-0.92041037,-0.39095364,0.30586871,-0.9520737,0,0)" />
+                    <rect
+                    style="opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.491972"
+                    id="rect519-5"
+                    width="5.2109575"
+                    height="129.2655"
+                    x="-190.89821"
+                    y="-101.18079"
+                    transform="matrix(-0.92041037,-0.39095364,0.30586871,-0.9520737,0,0)" />
+                    <rect
+                    style="opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:0.590345"
+                    id="rect566"
+                    width="5.8791943"
+                    height="164.97313"
+                    x="-110.57372"
+                    y="-186.79282"
+                    transform="matrix(-0.00483941,-0.99998829,-0.99999532,0.00306075,0,0)" />
+                </g>
+                </svg>
 
                 Simple Wood Working
             </a>
@@ -72,6 +184,10 @@
                 <div class="px-3 md:px-0">
                     <h3 class="font-bold text-gray-900">About Us</h3>
                     <p class="py-4">
+                        I am an idividual that loves making funiture.
+                        All of my piece are custom made, so brose some of the item that I have already made.
+                        If you would like the same item I can provide that.
+                        Do not like what you see email with the what you would like and might be able to make it happen.
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                         Maecenas vel mi ut felis tempus commodo nec id erat.
                         Suspendisse consectetur dapibus velit ut lacinia. Lorem
