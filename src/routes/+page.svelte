@@ -6,17 +6,17 @@
 <!-- hero image -->
 <section
     class="w-full mx-auto bg-nordic-gray-light flex pt-12 md:pt-0 md:items-center bg-cover bg-right"
-    style="max-width:1600px; height: 32rem; background-image: url('https://forestry.com/lumber/wp-content/uploads/2023/10/1-29.webp');"
+    style="max-width:1600px; height: 32rem; background-image: url('');"
 >
     <div class="container mx-auto">
         <div
             class="flex flex-col w-full lg:w-1/2 justify-center items-start px-6 tracking-wide"
         >
-            <h1 class="text-black text-3xl my-4">Table, Benches, and More</h1>
+            <h1 class="text-black text-3xl my-4">Stuff Made Out of Wood</h1>
             <div>
                 <a
                     class="text-2xl inline-block no-underline border-b border-gray-600 leading-relaxed hover:text-black hover:border-black"
-                    href="#products">Products</a
+                    href="#products">The stuff</a
                 >
                 <!-- <span class="text-2xl">|</span> -->
                 <!-- <a -->
