@@ -93,16 +93,52 @@ const productsData: ProductData[] = [
     price_id: "",
   },
   {
-    title: "SE17 Mini excavator",
-    slug: "se17-mini-excavator",
-    description:
-      "This is a SE17 Mini excavator. It has a 14 hp engine. These are solid machines perfect for a landscaper, electrician, or a plumber looking to make some extra money. Possibly even a land owner who doesn't want to mess with an overpriced Tractor Loader Backhoe. For digging you can NOT beat an excavator. These machines will dig trenches, stumps, gardens, or anything you can throw at it.\n\n \
-    These are simple reliable machines however when needed, accessing spare parts for these machines is not an issue. As they are covered under a manufacturer 2 year powertrain warranty. As a dealer I can have ANY spare part sourced directly from the manufacturer.",
-    stats: returnStats("se17-mini-excavator"),
-    price: "$7999.99",
+    title: "Basket Stand",
+    slug: "basket-stand",
+    description: "A cherry bench that is made wood from our yard.",
+    stats: new Map(),
+    price: "$299.99",
     stripe_link: "",
     price_id: "",
   },
+  {
+    title: "Live Edge Coffee Table",
+    slug: "first-live-edge",
+    description: "A cherry bench that is made wood from our yard.",
+    stats: new Map(),
+    price: "$299.99",
+    stripe_link: "",
+    price_id: "",
+  },
+  {
+    title: "Small End Table",
+    slug: "small-bookself",
+    description: "A cherry bench that is made wood from our yard.",
+    stats: new Map(),
+    price: "$299.99",
+    stripe_link: "",
+    price_id: "",
+  },
+  {
+    title: "Medium End Table",
+    slug: "end-table",
+    description: "A cherry bench that is made wood from our yard.",
+    stats: new Map(),
+    price: "$299.99",
+    stripe_link: "",
+    price_id: "",
+  },
+  // {
+  //   title: "SE17 Mini excavator",
+  //   slug: "se17-mini-excavator",
+  //   description:
+  //     "This is a SE17 Mini excavator. It has a 14 hp engine. These are solid machines perfect for a landscaper, electrician, or a plumber looking to make some extra money. Possibly even a land owner who doesn't want to mess with an overpriced Tractor Loader Backhoe. For digging you can NOT beat an excavator. These machines will dig trenches, stumps, gardens, or anything you can throw at it.\n\n \
+  //   These are simple reliable machines however when needed, accessing spare parts for these machines is not an issue. As they are covered under a manufacturer 2 year powertrain warranty. As a dealer I can have ANY spare part sourced directly from the manufacturer.",
+  //   stats: returnStats("se17-mini-excavator"),
+  //   price: "$7999.99",
+  //   stripe_link: "",
+  //   price_id: "",
+  // },
 ];
 
 function returnStats(slug: string) {
